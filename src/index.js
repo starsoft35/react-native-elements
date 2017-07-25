@@ -1,4 +1,5 @@
 // Core
+import ThemeProvider from './config/ThemeProvider';
 import Button from './buttons/Button';
 import Icon from './icons/Icon';
 import List from './list/List';
@@ -73,4 +74,5 @@ export {
   Rating,
   SwipeDeck,
   Header,
+  ThemeProvider,
 };
